@@ -1,3 +1,7 @@
+# documentation
+
+https://docs.google.com/document/d/1zPlh8dqL_9D-S0C7WRI4kycRcsmGGecWyJzwh8lmBss
+
 # setup 
 
 * `npm install`
